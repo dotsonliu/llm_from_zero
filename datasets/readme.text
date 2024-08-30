@@ -15,3 +15,17 @@ drwxr-xr-x. 3 root root          85 Aug 15 17:14 train_3.5M_CN
 -rw-r--r--. 1 root root   349650510 Aug 15 16:28 wiki_fi.parquet
 -rw-r--r--. 1 root root   524489333 Aug 13 17:33 wikipedia-cn-20230720-filtered.json
 
+
+dpo
+-rw-r--r--. 1 root root 30672506 Aug 26 09:11 alpaca_gpt4_merge_data.json
+-rw-r--r--. 1 root root 27183763 Aug 26 09:11 Belle_gpt4_merge_data.json
+-rw-r--r--. 1 root root     1828 Aug 30 15:02 convert_kto_data.py
+-rw-r--r--. 1 root root   581113 Aug 26 09:10 my_dpo_eval.json
+-rw-r--r--. 1 root root 57082937 Aug 26 09:12 my_dpo_train.json
+-rw-r--r--. 1 root root   651636 Aug 28 13:58 my_kto_eval.json
+-rw-r--r--. 1 root root 63683856 Aug 28 13:58 my_kto_train.json
+
+sft
+-rw-r--r--. 1 root root 35100559 Aug 22 16:53 alpaca_gpt4_data_zh.json
+-rw-r--r--. 1 root root     1645 Aug 22 16:53 README.md
+-rw-r--r--. 1 root root    18517 Aug 22 16:36 self_cognition.json
