@@ -1,0 +1,17 @@
+-rw-r--r--. 1 root root 16833953491 Aug 13 18:29 563w_baidubaike.json
+-rw-r--r--. 1 root root    19320562 Aug 22 17:10 aplca1.parquet
+-rw-r--r--. 1 root root        7674 Aug 22 17:10 aplca3.parquet
+-rw-r--r--. 1 root root  1355733241 Aug 15 16:32 baike_chunk_512_5.6M_0.parquet
+-rw-r--r--. 1 root root  1348238279 Aug 15 16:35 baike_chunk_512_5.6M_1.parquet
+-rw-r--r--. 1 root root   540520961 Aug 22 17:10 bell3.parquet
+-rw-r--r--. 1 root root  1674551461 Aug 15 17:15 bell_pretrain_512_3M.parquet
+drwxr-xr-x. 2 root root         200 Aug 28 13:58 dpo
+-rw-r--r--. 1 root root     7588895 Aug 15 17:15 pretrain_eval_512_1w.parquet
+drwxr-xr-x. 2 root root          82 Aug 22 16:54 sftdata
+drwxr-xr-x. 3 root root          94 Aug 15 16:05 train_0.5M_CN
+drwxr-xr-x. 3 root root          92 Aug 15 16:06 train_1M_CN
+drwxr-xr-x. 3 root root          83 Aug 15 16:09 train_2M_CN
+drwxr-xr-x. 3 root root          85 Aug 15 17:14 train_3.5M_CN
+-rw-r--r--. 1 root root   349650510 Aug 15 16:28 wiki_fi.parquet
+-rw-r--r--. 1 root root   524489333 Aug 13 17:33 wikipedia-cn-20230720-filtered.json
+
